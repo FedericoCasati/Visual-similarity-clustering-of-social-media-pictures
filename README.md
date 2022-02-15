@@ -8,7 +8,7 @@ Social media are characterizing the first part of the third millennium and today
 
 Different applications of a similar image-clustering algorithm can help answer several questions and support social media managers in their decision-making process by allowing to analyze both your own page and that of your competitors: 
 
-- What kind of images a social page mainly publishes? Which are the trending images over time? What are the images that most involve followers in terms of likes and comments?
+- What kind of images a social media page mainly publishes? Which are the trending images over time? What are the images that most involve followers in terms of likes and comments?
 
 **Possible improvements**
 
